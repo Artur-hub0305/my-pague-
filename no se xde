@@ -1,0 +1,40 @@
+<! DOCTYPE html>
+html lang>=¨es¨>
+<head>
+  <meta charset=¨UTf¨-8¨>
+<title> MIwebsite in Github </title>
+<style> 
+  body  {
+    font-family: Arial, sans-serif;
+    bacgroung: linear-gradient(120deg, #89f7fe, #66a6ff);
+    color: #333
+    text-align: center;
+    padding: 50px;
+}
+hi {
+    color: #222;
+    font_size: 3em;
+}
+p {
+  font-size 1.2em;
+}
+.card {
+  background: white;
+  padding: 20px;
+  border-radius, 12px,
+  box-shadow: 0 4px 8px rgba((0,0,0,0,2));
+  display: inline-block;
+    }
+  <\style>
+<\head>
+<body<
+    <div, class=¨card¨>
+    <p>TECNOLOGICO DE ESTUDIOS SUPERIORES DE JILOTEPEC</p>
+    <p>Ing. en Tecnologias de la informacion y comunicaciones</p>
+    <h1>Bienvenidos a mi pagina</h1>
+    <p>Hecha con GitHub</p>
+    <p> Arturo Tapia</p>
+  </div>
+</body>
+</html>
+    
